@@ -1,6 +1,6 @@
 package AnonymousClass;
 
-public class AnonymousClassTest {
+public class MainClassHere {
     public static void main(String[] args) {
 
 //      создаю экземпляр анонимного класса,
